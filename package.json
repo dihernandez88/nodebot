@@ -1,0 +1,20 @@
+{
+  "name": "daniel",
+  "version": "1.0.0",
+  "description": "testing this out",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "botbuilder": "^3.15.0",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.4.0"
+  }
+}

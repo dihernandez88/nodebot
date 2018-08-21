@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "version": "0.2.0",
+            "configuration": [
+                {
+                    "type": "node",
+                    "request": "launch",
+                    "name": "Launch Program",
+                    "program": "${workspaceRoot}app.js",
+                    "env": {
+                        "BOT_APP_ID": "6668c169-5172-42fb-a798-979a146bf8b4",
+                        "BOT_APP_PASSWORD": "jdyyhYPVH06:?_vnCYZ661}",
+                        "PORT": "3001"
+                    }
+                }
+            ]
+        }
+    ]
+}
